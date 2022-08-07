@@ -37,3 +37,9 @@ const item= {
 }
 console.log(item)
 ``` 
+## operators
+1. Arithmetic operators
+   - +,-,*,/,**(exponantial),++(increament),--.
+2. Com operators
+   - ==,!=,<,>,===(compare datatypes even),!==,?.
+3. 
