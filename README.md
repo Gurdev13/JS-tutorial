@@ -67,3 +67,9 @@ console.log(item)
     statement
   }  
   while(condition)
+
+## Functions
+- ```javascript
+  const name = (parameters) => {
+    statements 
+  }
