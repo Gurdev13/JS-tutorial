@@ -75,6 +75,7 @@ console.log(item)
   }
 
 ## string Templates-Literals(string interpolation)
+- Strings are immutable
 - ```javascript
   let b1 = "harry"
   let b2 = "garry"
@@ -85,4 +86,7 @@ console.log(item)
   b1.slice(0,4)
   b1.replace("har", "par")
   ```
+
+##  Arrays
+- muteable, one type of object
   
