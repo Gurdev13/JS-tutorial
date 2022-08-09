@@ -40,6 +40,30 @@ console.log(item)
 ## operators
 1. Arithmetic operators
    - +,-,*,/,**(exponantial),++(increament),--.
-2. Com operators
-   - ==,!=,<,>,===(compare datatypes even),!==,?.
-3. 
+2. Comparison operators
+   - ==,!=,<,>,===(compare datatypes even),!==,?(condition? true : false)
+3. Logical operators
+   - =,!
+
+## Conditional Statements
+- if,else-if,else
+
+## Loops
+- for(intialize;condition;updation)
+  ```javascript
+  for (let a in object){
+    console.log(a) //prints keys of an object
+  }
+  ```
+- for of loop
+- ```javascript
+  for (let a of object){
+    console.log(a) //prints value of object
+  }
+  ```
+- do while loop(executes atleast once)
+  ```javascript
+  do{
+    statement
+  }  
+  while(condition)
