@@ -73,3 +73,16 @@ console.log(item)
   const name = (parameters) => {
     statements 
   }
+
+## string Templates-Literals(string interpolation)
+- ```javascript
+  let b1 = "harry"
+  let b2 = "garry"
+  let sentence = `${b1} is friend of ${b2}`
+
+  b1.toUpperCase()
+  b1.toLowerCase()
+  b1.slice(0,4)
+  b1.replace("har", "par")
+  ```
+  
