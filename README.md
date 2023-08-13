@@ -3,7 +3,7 @@
 ## Getting started  
 
 - Javascript is very liberal in what it allows (very less error throwing)
-- Used to make webpages interactive  
+-t is used to make webpages interactive  
 - ***NodeJs***  In order to use javascript outside the browser
 - ***Raplit*** Web application for writing Javascript and many other languages online
 
