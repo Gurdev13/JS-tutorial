@@ -1,4 +1,4 @@
-# JAVASCRIPT  
+# JAVASCRIPT  (only for beginners)
 
 ## Getting started  
 
