@@ -1,7 +1,6 @@
 # JAVASCRIPT  (only for beginners)
 
-## Getting started  
-
+## basics
 - Javascript is very liberal in what it allows (very less error throwing)
 -t is used to make webpages interactive  
 - ***NodeJs***  In order to use javascript outside the browser
