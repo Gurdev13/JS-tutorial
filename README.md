@@ -1,4 +1,4 @@
-# JAVASCRIPT  (only for beginners)
+# JAVASCRIPT  (for beginners)
 
 ## basics
 - Javascript is very liberal in what it allows (very less error throwing)
