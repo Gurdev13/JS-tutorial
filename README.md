@@ -2,7 +2,7 @@
 
 ## basics
 - Javascript is very liberal in what it allows (very less error throwing)
--t is used to make webpages interactive  
+- it is used to make webpages interactive  
 - ***NodeJs***  In order to use javascript outside the browser
 - ***Raplit*** Web application for writing Javascript and many other languages online
 
