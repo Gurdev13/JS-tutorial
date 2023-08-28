@@ -7,7 +7,7 @@
 - ***Raplit*** Web application for writing Javascript and many other languages online
 
 
-## Variables in JS
+## Variables in JavaScript
 - var is defined globally and can be declared again and again.
 - let is defined for or between the particular block only and is prefered, can't be redeclared(throws error).  
 - const neigther be redeclared nor their values can be changed.  
