@@ -48,7 +48,7 @@ console.log(item)
 - if,else-if,else
 
 ## Loops
-- for(intialize;condition;updation)
+- for(intialize; condition; updation)
   ```javascript
   for (let a in object){
     console.log(a) //prints keys of an object
