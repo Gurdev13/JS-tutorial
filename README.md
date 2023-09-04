@@ -87,5 +87,4 @@ console.log(item)
   ```
 
 ##  Arrays
-- muteable, one type of object
-  
+- muteable, a type of object  
