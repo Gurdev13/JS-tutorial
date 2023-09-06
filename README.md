@@ -12,7 +12,7 @@
 - let is defined for or between the particular block only and is prefered, can't be redeclared(throws error).  
 - const neigther be redeclared nor their values can be changed.  
 
-## Primitive datatypes
+## Primitive datatypes in js
 - We have 7 primitive datatypes
 - ***N*** Null (empty)
 - ***N*** Number (33)
