@@ -24,7 +24,7 @@
 
 ## Objects or Non-Primitive data types  
 - Similar to dictionaries in pyhton.
-- Multiple variables can declared in the object block.
+- Multiple variables can declared in the object block
 - Can look up variables using key
 
 ```javascript
