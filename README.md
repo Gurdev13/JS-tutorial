@@ -45,7 +45,7 @@ console.log(item)
    - =,!
 
 ## Conditional Statements
-- if,else-if,else
+- if,else-if, else
 
 ## Loops
 - for(intialize; condition; updation)
