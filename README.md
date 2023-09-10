@@ -10,7 +10,7 @@
 ## Variables in JavaScript
 - var is defined globally and can be declared again and again.
 - let is defined for or between the particular block only and is prefered, can't be redeclared(throws error).  
-- const neigther be redeclared nor their values can be changed.  
+- const neigther be redeclared nor their values can be changed
 
 ## Primitive datatypes in js
 - We have 7 primitive datatypes
